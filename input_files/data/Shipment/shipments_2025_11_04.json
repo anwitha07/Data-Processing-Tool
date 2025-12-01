@@ -1,0 +1,702 @@
+[
+  {
+    "shipment_id": 3900,
+    "supplier_id": null,
+    "warehouse_id": 8888,
+    "shipment_date": "2025-11-04",
+    "quantity": 174
+  },
+  {
+    "shipment_id": 3901,
+    "supplier_id": 1014,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": 251
+  },
+  {
+    "shipment_id": 3902,
+    "supplier_id": 1004,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3903,
+    "supplier_id": 1004,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3904,
+    "supplier_id": 1006,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3905,
+    "supplier_id": 1000,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3906,
+    "supplier_id": 1001,
+    "warehouse_id": 208,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3907,
+    "supplier_id": 1014,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3908,
+    "supplier_id": 1006,
+    "warehouse_id": 208,
+    "shipment_date": "2025-11-04",
+    "quantity": 439
+  },
+  {
+    "shipment_id": 3909,
+    "supplier_id": 1008,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3910,
+    "supplier_id": 9999,
+    "warehouse_id": 203,
+    "shipment_date": "2025-11-04",
+    "quantity": 182
+  },
+  {
+    "shipment_id": 3911,
+    "supplier_id": 1009,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3912,
+    "supplier_id": 1003,
+    "warehouse_id": 206,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3913,
+    "supplier_id": 1006,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3914,
+    "supplier_id": 1001,
+    "warehouse_id": null,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3915,
+    "supplier_id": 1001,
+    "warehouse_id": 201,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3916,
+    "supplier_id": 1004,
+    "warehouse_id": 205,
+    "shipment_date": "2025-11-04",
+    "quantity": 372
+  },
+  {
+    "shipment_id": 3917,
+    "supplier_id": 1009,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": 473
+  },
+  {
+    "shipment_id": 3918,
+    "supplier_id": 1014,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3919,
+    "supplier_id": 1002,
+    "warehouse_id": 8888,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3920,
+    "supplier_id": 1006,
+    "warehouse_id": 203,
+    "shipment_date": "2025-11-04",
+    "quantity": 346
+  },
+  {
+    "shipment_id": 3921,
+    "supplier_id": 1000,
+    "warehouse_id": 208,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3922,
+    "supplier_id": 1000,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3923,
+    "supplier_id": 1001,
+    "warehouse_id": 205,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3924,
+    "supplier_id": 1014,
+    "warehouse_id": 206,
+    "shipment_date": "2025-11-04",
+    "quantity": 150
+  },
+  {
+    "shipment_id": 3925,
+    "supplier_id": 1005,
+    "warehouse_id": 209,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3926,
+    "supplier_id": 1000,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3927,
+    "supplier_id": 1010,
+    "warehouse_id": 200,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3928,
+    "supplier_id": 1006,
+    "warehouse_id": 206,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3929,
+    "supplier_id": 1005,
+    "warehouse_id": 200,
+    "shipment_date": "2025-11-04",
+    "quantity": 246
+  },
+  {
+    "shipment_id": 3930,
+    "supplier_id": 1004,
+    "warehouse_id": 206,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3931,
+    "supplier_id": null,
+    "warehouse_id": 8888,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3932,
+    "supplier_id": 1014,
+    "warehouse_id": null,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3933,
+    "supplier_id": 1006,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": 483
+  },
+  {
+    "shipment_id": 3934,
+    "supplier_id": null,
+    "warehouse_id": 201,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3935,
+    "supplier_id": null,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": 350
+  },
+  {
+    "shipment_id": 3936,
+    "supplier_id": 1009,
+    "warehouse_id": 208,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3937,
+    "supplier_id": 1008,
+    "warehouse_id": 200,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3938,
+    "supplier_id": 1012,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3939,
+    "supplier_id": 1004,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": 233
+  },
+  {
+    "shipment_id": 3940,
+    "supplier_id": 1014,
+    "warehouse_id": 203,
+    "shipment_date": "2025-11-04",
+    "quantity": 350
+  },
+  {
+    "shipment_id": 3941,
+    "supplier_id": null,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": 74
+  },
+  {
+    "shipment_id": 3942,
+    "supplier_id": 1001,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": 280
+  },
+  {
+    "shipment_id": 3943,
+    "supplier_id": 1007,
+    "warehouse_id": 205,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3944,
+    "supplier_id": 1004,
+    "warehouse_id": 205,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3945,
+    "supplier_id": 1006,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3946,
+    "supplier_id": 1005,
+    "warehouse_id": 205,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3947,
+    "supplier_id": 1010,
+    "warehouse_id": 201,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3948,
+    "supplier_id": 1008,
+    "warehouse_id": 206,
+    "shipment_date": "2025-11-04",
+    "quantity": 438
+  },
+  {
+    "shipment_id": 3949,
+    "supplier_id": 1007,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3950,
+    "supplier_id": 1000,
+    "warehouse_id": 205,
+    "shipment_date": "2025-11-04",
+    "quantity": 8
+  },
+  {
+    "shipment_id": 3951,
+    "supplier_id": 1010,
+    "warehouse_id": 200,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3952,
+    "supplier_id": 1004,
+    "warehouse_id": 209,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3953,
+    "supplier_id": 1008,
+    "warehouse_id": 205,
+    "shipment_date": "2025-11-04",
+    "quantity": 347
+  },
+  {
+    "shipment_id": 3954,
+    "supplier_id": 1008,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3955,
+    "supplier_id": 1014,
+    "warehouse_id": 200,
+    "shipment_date": "2025-11-04",
+    "quantity": 229
+  },
+  {
+    "shipment_id": 3956,
+    "supplier_id": 1002,
+    "warehouse_id": 208,
+    "shipment_date": "2025-11-04",
+    "quantity": 497
+  },
+  {
+    "shipment_id": 3957,
+    "supplier_id": 1005,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3958,
+    "supplier_id": 1010,
+    "warehouse_id": null,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3959,
+    "supplier_id": 1000,
+    "warehouse_id": 201,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3960,
+    "supplier_id": 9999,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3961,
+    "supplier_id": 1010,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": 3
+  },
+  {
+    "shipment_id": 3962,
+    "supplier_id": 1004,
+    "warehouse_id": 201,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3963,
+    "supplier_id": 1003,
+    "warehouse_id": 8888,
+    "shipment_date": "2025-11-04",
+    "quantity": 207
+  },
+  {
+    "shipment_id": 3964,
+    "supplier_id": null,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3965,
+    "supplier_id": 1012,
+    "warehouse_id": 201,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3966,
+    "supplier_id": 1011,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": 107
+  },
+  {
+    "shipment_id": 3967,
+    "supplier_id": 1006,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": 485
+  },
+  {
+    "shipment_id": 3968,
+    "supplier_id": 1011,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3969,
+    "supplier_id": 1012,
+    "warehouse_id": 208,
+    "shipment_date": "2025-11-04",
+    "quantity": 134
+  },
+  {
+    "shipment_id": 3970,
+    "supplier_id": 1011,
+    "warehouse_id": 8888,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3971,
+    "supplier_id": 1012,
+    "warehouse_id": 204,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3972,
+    "supplier_id": 1004,
+    "warehouse_id": 209,
+    "shipment_date": "2025-11-04",
+    "quantity": 131
+  },
+  {
+    "shipment_id": 3973,
+    "supplier_id": 9999,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": 428
+  },
+  {
+    "shipment_id": 3974,
+    "supplier_id": 1011,
+    "warehouse_id": 200,
+    "shipment_date": "2025-11-04",
+    "quantity": 220
+  },
+  {
+    "shipment_id": 3975,
+    "supplier_id": 1004,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3976,
+    "supplier_id": 1013,
+    "warehouse_id": null,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3977,
+    "supplier_id": 1012,
+    "warehouse_id": 208,
+    "shipment_date": "2025-11-04",
+    "quantity": 167
+  },
+  {
+    "shipment_id": 3978,
+    "supplier_id": 1008,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": 328
+  },
+  {
+    "shipment_id": 3979,
+    "supplier_id": 1000,
+    "warehouse_id": 200,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3980,
+    "supplier_id": 1007,
+    "warehouse_id": null,
+    "shipment_date": "2025-11-04",
+    "quantity": 249
+  },
+  {
+    "shipment_id": 3981,
+    "supplier_id": 1003,
+    "warehouse_id": 8888,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3982,
+    "supplier_id": 1009,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3983,
+    "supplier_id": 1001,
+    "warehouse_id": 203,
+    "shipment_date": "2025-11-04",
+    "quantity": 100
+  },
+  {
+    "shipment_id": 3984,
+    "supplier_id": 1004,
+    "warehouse_id": 200,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3985,
+    "supplier_id": 1008,
+    "warehouse_id": null,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3986,
+    "supplier_id": 1012,
+    "warehouse_id": 206,
+    "shipment_date": "2025-11-04",
+    "quantity": 100
+  },
+  {
+    "shipment_id": 3987,
+    "supplier_id": 1005,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3988,
+    "supplier_id": 1004,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3989,
+    "supplier_id": 1005,
+    "warehouse_id": 206,
+    "shipment_date": "2025-11-04",
+    "quantity": 367
+  },
+  {
+    "shipment_id": 3990,
+    "supplier_id": 1008,
+    "warehouse_id": 8888,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3991,
+    "supplier_id": 1006,
+    "warehouse_id": 207,
+    "shipment_date": "2025-11-04",
+    "quantity": 32
+  },
+  {
+    "shipment_id": 3992,
+    "supplier_id": 1001,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": 487
+  },
+  {
+    "shipment_id": 3993,
+    "supplier_id": 1000,
+    "warehouse_id": 201,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3994,
+    "supplier_id": 1002,
+    "warehouse_id": 200,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3995,
+    "supplier_id": null,
+    "warehouse_id": 205,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3996,
+    "supplier_id": 1002,
+    "warehouse_id": 202,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3997,
+    "supplier_id": 1006,
+    "warehouse_id": 206,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  },
+  {
+    "shipment_id": 3998,
+    "supplier_id": null,
+    "warehouse_id": 206,
+    "shipment_date": "2025-11-04",
+    "quantity": -10
+  },
+  {
+    "shipment_id": 3999,
+    "supplier_id": 9999,
+    "warehouse_id": 8888,
+    "shipment_date": "2025-11-04",
+    "quantity": null
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "supplier_id": 1000,
+    "supplier_name": "aTTepV",
+    "country": null
+  },
+  {
+    "supplier_id": 1001,
+    "supplier_name": "UbkZKw",
+    "country": "China"
+  },
+  {
+    "supplier_id": 1002,
+    "supplier_name": "diDBhs",
+    "country": "China"
+  },
+  {
+    "supplier_id": 1003,
+    "supplier_name": "NzOXWv",
+    "country": "Germany"
+  },
+  {
+    "supplier_id": 1004,
+    "supplier_name": "bRYdDj",
+    "country": "Germany"
+  },
+  {
+    "supplier_id": 1005,
+    "supplier_name": "vzpUOL",
+    "country": "USA"
+  },
+  {
+    "supplier_id": 1006,
+    "supplier_name": "ubTxeS",
+    "country": "Brazil"
+  },
+  {
+    "supplier_id": 1007,
+    "supplier_name": "GKmJRb",
+    "country": null
+  },
+  {
+    "supplier_id": 1008,
+    "supplier_name": null,
+    "country": "USA"
+  },
+  {
+    "supplier_id": 1009,
+    "supplier_name": "KfAlFd",
+    "country": "Germany"
+  },
+  {
+    "supplier_id": 1010,
+    "supplier_name": "FyqGgc",
+    "country": "Germany"
+  },
+  {
+    "supplier_id": 1011,
+    "supplier_name": "OFKkQl",
+    "country": "USA"
+  },
+  {
+    "supplier_id": 1012,
+    "supplier_name": "BISdiK",
+    "country": "Germany"
+  },
+  {
+    "supplier_id": 1013,
+    "supplier_name": null,
+    "country": "China"
+  },
+  {
+    "supplier_id": 1014,
+    "supplier_name": "cDtKTb",
+    "country": "India"
+  }
+]

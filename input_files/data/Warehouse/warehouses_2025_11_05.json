@@ -1,0 +1,62 @@
+[
+  {
+    "warehouse_id": 200,
+    "warehouse_name": "zIIcvvQqVf",
+    "location": "Dubai",
+    "capacity": -1
+  },
+  {
+    "warehouse_id": 201,
+    "warehouse_name": "dtrMxgvtWY",
+    "location": "Dubai",
+    "capacity": 6943
+  },
+  {
+    "warehouse_id": 202,
+    "warehouse_name": "SakdyruHKj",
+    "location": "Dubai",
+    "capacity": 6825
+  },
+  {
+    "warehouse_id": 203,
+    "warehouse_name": "oTnihznyZr",
+    "location": "LA",
+    "capacity": -1
+  },
+  {
+    "warehouse_id": 204,
+    "warehouse_name": "tCxIwSZdTK",
+    "location": null,
+    "capacity": 9485
+  },
+  {
+    "warehouse_id": 205,
+    "warehouse_name": "ziBjCDweuS",
+    "location": null,
+    "capacity": 2756
+  },
+  {
+    "warehouse_id": 206,
+    "warehouse_name": "hmobjlbTpK",
+    "location": null,
+    "capacity": -1
+  },
+  {
+    "warehouse_id": 207,
+    "warehouse_name": "VCpjCQCAGe",
+    "location": "Dubai",
+    "capacity": 6278
+  },
+  {
+    "warehouse_id": 208,
+    "warehouse_name": "MCkXxbzKfI",
+    "location": null,
+    "capacity": 8726
+  },
+  {
+    "warehouse_id": 209,
+    "warehouse_name": "eMTfYIhMvG",
+    "location": "Mumbai",
+    "capacity": 7306
+  }
+]
